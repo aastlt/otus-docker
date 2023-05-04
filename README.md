@@ -1,5 +1,4 @@
 # otus-docker
-Создание образа docker
 
 
 Для создания кастомного образа nginx на базе alpine был использован Dockerfile
