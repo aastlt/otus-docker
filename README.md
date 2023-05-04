@@ -8,7 +8,7 @@
 
 Ссылка на образ:
 
-https://hub.docker.com/repository/docker/aastlt/otus-nginx-alpine/general
+https://hub.docker.com/r/aastlt/otus-nginx-alpine
 
 
 Для для запуска контейнера (например на порту 5050), выполнить:
